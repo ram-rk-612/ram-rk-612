@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ram-rk-612
 - 👀 I’m interested in learning new concepts
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on project teams
 
 
